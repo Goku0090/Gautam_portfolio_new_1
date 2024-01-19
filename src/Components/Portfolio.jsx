@@ -42,13 +42,12 @@ const projectList = [
     url: "https://publuu.com/flip-book/366597/835910/page/1",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Certification",
+    description:"A-Z certificates",
+    url: "https://goku0090.github.io/Certificate_page/certicate.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Internship",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
