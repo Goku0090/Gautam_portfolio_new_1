@@ -48,8 +48,7 @@ const projectList = [
   },
   {
     title: "Work Experience",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    description:"",
     url: "https://goku0090.github.io/Internship_page/work%20Experince_1",
   },
 ];
