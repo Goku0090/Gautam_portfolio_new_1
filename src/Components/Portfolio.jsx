@@ -37,10 +37,9 @@ const projectList = [
     url: "https://goku0090.github.io/Project_page/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Resume",
+    description:"My latest Resume",
+    url: "https://publuu.com/flip-book/366597/835910/page/1",
   },
   {
     title: "My Resume Site",
