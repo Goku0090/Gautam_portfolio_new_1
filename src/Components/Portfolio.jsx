@@ -47,10 +47,10 @@ const projectList = [
     url: "https://goku0090.github.io/Certificate_page/certicate.html",
   },
   {
-    title: "Internship",
+    title: "Work Experience",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://goku0090.github.io/Internship_page/work%20Experince_1",
   },
 ];
 
