@@ -44,7 +44,7 @@ const projectList = [
   {
     title: "Certification",
     description:"A-Z certificates",
-    url: "https://goku0090.github.io/Certificate_page/certicate.html",
+    url: "https://goku0090.github.io/Certificate_page_1/certicate.html",
   },
   {
     title: "Work Experience",
