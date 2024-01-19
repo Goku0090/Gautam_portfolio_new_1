@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/leone-venter-VieM9BdZKFo-unsplash.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello, and thank you for visiting my portfolio! I am [Your Name], a passionate and dedicated individual with a dual expertise in Data Analytics and UI/UX Design. My journey in the world of technology has been shaped by a profound curiosity and a commitment to mastering the intersection of data and design.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "UI/UX",
+  "Data Analysis",
+  "Machine Learning ",
+  "Data Visualization",
+  "Python Development",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm on a journey where I turn messy data into meaningful stories, create digital spaces that are both sleek and user-friendly, and bring ideas to life through web development. Picture it like solving exciting puzzles and crafting with technology. How? Simple – loads of passion, a knack for details, and an everlasting excitement to learn new things. Let's connect and cook up some fantastic projects together! 🚀💡";
 
 const About = () => {
   return (
