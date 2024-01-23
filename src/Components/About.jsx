@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Hello, and thank you for visiting my portfolio! I am [Your Name], a passionate and dedicated individual with a dual expertise in Data Analytics and UI/UX Design. My journey in the world of technology has been shaped by a profound curiosity and a commitment to mastering the intersection of data and design.";
+  "Hello, and thank you for visiting my portfolio! I am Gautam Nair, a passionate and dedicated individual with a dual expertise in Data Analytics and UI/UX Design. My journey in the world of technology has been shaped by a profound curiosity and a commitment to mastering the intersection of data and design.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
