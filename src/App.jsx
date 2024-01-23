@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "https://github.com/Goku0090",
   instagram: "https://www.instagram.com/enigmatic_itis/",
   linkedIn: "https://www.linkedin.com/in/gautam-nair-5b7476189/",
- 
+ run
 };
 
 const primaryColor = "#4E567E";
